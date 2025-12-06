@@ -35,5 +35,9 @@ A Chrome Extension that provides concise summaries of YouTube video transcripts 
 ## 🧩 Author
 Ramanpreet Singh
 
+## 🧩 website live 
+[link](https://youtubetranscriptsumarizer.lovable.app)
+
+
 
 
