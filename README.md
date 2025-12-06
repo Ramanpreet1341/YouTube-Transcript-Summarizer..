@@ -31,3 +31,9 @@ A Chrome Extension that provides concise summaries of YouTube video transcripts 
    - LSA for extractive summarization
    - Transformer models for abstractive summarization
 4. The summary is returned and displayed directly on the YouTube page.
+
+## 🧩 Author
+Ramanpreet Singh
+
+
+
